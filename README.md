@@ -3,6 +3,7 @@
 # CNN-CIFAR10
 🖼️ CIFAR-10 | Convolutional Neural Network (CNN)
 </br>
+</br>
 ![image](https://github.com/soaresgabe/CNN-CIFAR10/assets/99471382/b0f0441c-108e-4e40-941a-6598c04f03c2)
 </br>
 </br>
